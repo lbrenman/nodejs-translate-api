@@ -1,6 +1,6 @@
 # Tranlate API
 
-Tranlate API built in NodeJS/Express using AWS Translate
+Translate API built in NodeJS/Express using AWS Translate
 
 Uses API Key Authentication
 
