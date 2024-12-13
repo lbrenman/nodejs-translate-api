@@ -1,4 +1,4 @@
-# Tranlate API
+# Translate API
 
 Translate API built in NodeJS/Express using AWS Translate
 
